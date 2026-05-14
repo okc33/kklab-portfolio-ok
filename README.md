@@ -271,6 +271,7 @@ git push -u origin main
 - フォーカス可視性（:focus-visible）を確保
 - script.js は即時実行関数（IIFE）で囲み 'use strict' を使用
 ```
+マイ
 
 ## ライセンス
 
